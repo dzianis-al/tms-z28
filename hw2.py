@@ -1,0 +1,7 @@
+text = str(input('enter a string:\n'))
+len(text)
+print(text[3:4])
+print(text[-2:-1])
+print(text[:5])
+print(text[:-2])
+print(text[::2])
